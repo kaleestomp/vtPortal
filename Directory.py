@@ -7,7 +7,7 @@ from echarts import echarts as ec
 from database_processor import database_processor as dbp
 from elvr_pipeline_utilities import dataframe_functions as edff
 from upload_processer import upload_processor as up
-
+#
 # ---- Page Meta-data ----
 st.set_page_config(
     page_title="Elevate Portal",
