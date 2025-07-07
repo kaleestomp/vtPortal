@@ -1,0 +1,1 @@
+{"peak_time": "29649", "queue_length": "73", "mean_wait_time": 35.1, "mean_transit_time": 70.5, "mean_travel_time": 105.6, "max_wait_time": 153.7, "max_transit_time": 132.3, "max_travel_time": 237.9, "name": "North Tower - Office - High Zone: 7 Lift", "simulation_id": "847", "run_id": "3", "lift_count": 7}
